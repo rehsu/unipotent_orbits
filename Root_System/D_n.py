@@ -1,7 +1,7 @@
 # %%
 import numpy as np
 from sympy import *
-from sympy.combinatorics import Permutation
+from sym
 
 # %%
 class root_system_D():

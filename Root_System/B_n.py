@@ -3,7 +3,6 @@ import numpy as np
 from sympy import *
 from sympy.combinatorics import Permutation
 
-
 # %%
 class root_system_B():
     def __init__(self,n):
