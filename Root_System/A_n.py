@@ -297,6 +297,7 @@ class weyl_group_A():
 
     def element_length(self,ele):
         #This returns the length of a given reflection.
+        #If the word is reduced to none, identity is returned.
         counter = 0
         ele = self.reduced_element(ele)
         if ele == 'e':

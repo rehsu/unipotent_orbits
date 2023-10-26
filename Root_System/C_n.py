@@ -104,6 +104,7 @@ class root_system_C():
         return self.num_of_roots // 2
 
     def dynkin_diagram(self):
+        #This returns the Dynkin Diagram of C_n.
         n = self.rank
         diag = '---'.join("0" for i in range(1, n)) 
         diag += '<==0\n'
