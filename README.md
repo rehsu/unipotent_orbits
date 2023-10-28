@@ -6,7 +6,7 @@
 
 - Visualizing the weyl groups of classical groups.
 
-A documentaton can be found here [a relative link](Documentation.html)
+A documentaton can be found [here](Documentation.html).
 ### Referrence
 
 - Daniel Bump. Lie group, Series: Graduate Texts in Mathematics, Volume 225, 2013.
